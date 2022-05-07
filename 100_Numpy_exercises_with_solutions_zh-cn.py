@@ -1,3 +1,7 @@
+# https://aistudio.baidu.com/aistudio/projectDetail/118377
+# https://numpy.org.cn/
+# https://zhuanlan.zhihu.com/p/81097667
+
 # # 100 numpy exercises
 #
 # This is a collection of exercises that have been collected in the numpy mailing list, on stack
